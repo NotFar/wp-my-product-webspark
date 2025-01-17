@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webspark CRUD for Woocommerce\n"
+"POT-Creation-Date: 2025-01-17 09:04+0200\n"
+"PO-Revision-Date: 2025-01-17 09:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/emails/websparkEmail.php:19
+msgid "Webspark Email"
+msgstr "Webspark Email"
+
+#: includes/emails/websparkEmail.php:20
+msgid ""
+"This is an email from webspark that is sent after a user edits/adds a "
+"product."
+msgstr ""
+"Це електронний лист від webspark, який надсилається після того, як "
+"користувач редагує/додає товар."
+
+#: includes/emails/websparkEmail.php:27 includes/emails/websparkEmail.php:28
+#: templates/emails/plain/webspark-email.php:16
+msgid "A new product has been added or edited."
+msgstr "Додано або відредаговано новий продукт."
+
+#: includes/emails/websparkEmail.php:44
+msgid "Enable/Disable"
+msgstr "Увімкнути/Вимкнути"
+
+#: includes/emails/websparkEmail.php:46
+msgid "Enable this email notification."
+msgstr "Увімкніть це сповіщення."
+
+#: includes/emails/websparkEmail.php:50
+msgid "Email Type"
+msgstr "Тип електронного листа"
+
+#: includes/emails/websparkEmail.php:52
+msgid "Choose the email format."
+msgstr "Виберіть формат листа."
+
+#: includes/emails/websparkEmail.php:54
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/emails/websparkEmail.php:55
+msgid "Plain Text"
+msgstr "Plain Text"
+
+#: includes/emails/websparkEmail.php:60
+msgid "Recipient(s)"
+msgstr "Одержувач(и)"
+
+#: includes/emails/websparkEmail.php:62
+msgid "Enter recipients (comma-separated). Defaults to admin email."
+msgstr ""
+"Введіть одержувачів (через кому). За замовчуванням - email адміністратора."
+
+#: includes/pages/addProduct.php:36 includes/pages/addProduct.php:141
+msgid "You do not have permission to edit this product."
+msgstr "Ви не маєте дозволу на редагування цього продукту."
+
+#: includes/pages/addProduct.php:47
+msgid "Edit Product"
+msgstr "Редагувати товар"
+
+#: includes/pages/addProduct.php:47
+msgid "Add Product"
+msgstr "Додати товар"
+
+#: includes/pages/addProduct.php:51 includes/pages/myProducts.php:77
+msgid "Product Name"
+msgstr "Назва товару"
+
+#: includes/pages/addProduct.php:57 includes/pages/myProducts.php:79
+msgid "Price"
+msgstr "Ціна"
+
+#: includes/pages/addProduct.php:63 includes/pages/myProducts.php:78
+msgid "Quantity"
+msgstr "Кількість"
+
+#: includes/pages/addProduct.php:69
+msgid "Description"
+msgstr "Опис"
+
+#: includes/pages/addProduct.php:77
+msgid "Product Image"
+msgstr "Зображення товару"
+
+#: includes/pages/addProduct.php:78
+msgid "Update Image"
+msgstr "Оновити зображення"
+
+#: includes/pages/addProduct.php:78
+msgid "Upload Image"
+msgstr "Завантажити зображення"
+
+#: includes/pages/addProduct.php:86
+msgid "Update"
+msgstr "Оновити"
+
+#: includes/pages/addProduct.php:86
+msgid "Add"
+msgstr "Додати"
+
+#: includes/pages/addProduct.php:106
+msgid "Select a product image"
+msgstr "Виберіть зображення товару"
+
+#: includes/pages/addProduct.php:107
+msgid "Use this image"
+msgstr "Використовуйте це зображення"
+
+#: includes/pages/addProduct.php:108
+msgid "There was an error. Please try again."
+msgstr "Виникла помилка. Будь ласка, спробуйте ще раз."
+
+#: includes/pages/addProduct.php:109
+msgid "The product has been successfully updated!"
+msgstr "Продукт успішно оновлено!"
+
+#: includes/pages/addProduct.php:135
+msgid "All fields are required."
+msgstr "Всі поля є обов'язковими для заповнення."
+
+#: includes/pages/addProduct.php:165
+msgid "Product successfully added!"
+msgstr "Товар успішно додано!"
+
+#: includes/pages/addProduct.php:167
+msgid "Failed to add a product."
+msgstr "Не вдалося додати товар."
+
+#: includes/pages/myProducts.php:35
+msgid "Are you sure you want to delete this product?"
+msgstr "Ви впевнені, що хочете видалити цей продукт?"
+
+#: includes/pages/myProducts.php:36
+msgid "An error occurred while deleting the product. Please try again."
+msgstr "Виникла помилка при видаленні товару. Будь ласка, спробуйте ще раз."
+
+#: includes/pages/myProducts.php:72
+msgid "My Products"
+msgstr "Мої товари"
+
+#: includes/pages/myProducts.php:80
+msgid "Status"
+msgstr "Статус"
+
+#: includes/pages/myProducts.php:81 includes/pages/myProducts.php:95
+msgid "Edit"
+msgstr "Редагувати"
+
+#: includes/pages/myProducts.php:82 includes/pages/myProducts.php:96
+msgid "Delete"
+msgstr "Видалити"
+
+#: includes/pages/myProducts.php:107
+msgid "&laquo; Previous"
+msgstr "&laquo; Попередні"
+
+#: includes/pages/myProducts.php:108
+msgid "Next &raquo;"
+msgstr "Далі &raquo;"
+
+#: includes/pages/myProducts.php:111
+msgid "No products found."
+msgstr "Товарів не знайдено."
+
+#: includes/pages/myProducts.php:130
+msgid "You do not have permission to delete this product."
+msgstr "Ви не маєте дозволу на видалення цього продукту."
+
+#: includes/pages/myProducts.php:134
+msgid "Product deleted successfully."
+msgstr "Продукт успішно видалено."
+
+#: includes/pages/myProducts.php:136
+msgid "Failed to delete product."
+msgstr "Не вдалося видалити товар."
+
+#: includes/pluginSettings.php:32
+msgid ""
+"Important! For the \"Webspark CRUD for Woocommerce\" plugin to work, install "
+"and activate the \"Woocommerce\" plugin."
+msgstr ""
+"Важливо! Щоб плагін «Webspark CRUD for Woocommerce» працював, встановіть і "
+"активуйте плагін «Woocommerce»."
+
+#: includes/pluginSettings.php:46 includes/pluginSettings.php:80
+msgid "Add product"
+msgstr "Додати товар"
+
+#: includes/pluginSettings.php:47 includes/pluginSettings.php:81
+msgid "My products"
+msgstr "Мої товари"
+
+#: includes/pluginSettings.php:75
+msgid "Dashboard"
+msgstr "Панель приладів"
+
+#: includes/pluginSettings.php:76
+msgid "Orders"
+msgstr "Замовлення"
+
+#: includes/pluginSettings.php:77
+msgid "Downloads"
+msgstr "Завантаження"
+
+#: includes/pluginSettings.php:78
+msgid "Addresses"
+msgstr "Адреси"
+
+#: includes/pluginSettings.php:79
+msgid "Account details"
+msgstr "Деталі акаунту"
+
+#: includes/pluginSettings.php:82
+msgid "Logout"
+msgstr "Вийти"
+
+#: templates/emails/plain/webspark-email.php:18
+msgid "Product Title:"
+msgstr "Назва продукту:"
+
+#: templates/emails/plain/webspark-email.php:19
+msgid "Author Profile URL:"
+msgstr "URL профілю автора:"
+
+#: templates/emails/plain/webspark-email.php:20
+msgid "Edit Product URL:"
+msgstr "Редагувати URL-адресу продукту:"
+
+#~ msgid ""
+#~ "CRUD operations for working with products through the \"My account\" page"
+#~ msgstr "CRUD-операції для роботи з товарами через сторінку «Мій кабінет»"
+
+#~ msgid "Please review the product as soon as possible."
+#~ msgstr "Будь ласка, перегляньте товар якомога швидше."
+
+#~ msgid "Update Product"
+#~ msgstr "Оновити товар"
